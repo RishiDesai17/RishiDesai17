@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi! I am Rishi
+An aspiring software engineer. I am currently studying CSE at University of Mumbai: Dwarkadas J. Sanghvi College of Engineering
 
 <!--
 **RishiDesai17/RishiDesai17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
