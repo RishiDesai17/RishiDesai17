@@ -6,38 +6,39 @@
 <p float="left">
   <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/javascript.png" alt="JavaScript" width="40" height="40"/>&ensp;
   <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/typescript.png" alt="Typescript" width="40" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/python.png" alt="Python" width="40" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/java.jpg" alt="Java" width="40" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/html.png" alt="HTML" width="40" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/css.png" alt="CSS" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/python.svg" alt="Python" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/java.png" alt="Java" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/html.svg" alt="HTML" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/css.svg" alt="CSS" width="40" height="40"/>&ensp;
 </p>
 
 ## Frameworks/Libraries
 <p float="left">
   <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/nodejs.png" alt="Node.js" width="65" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/express.png" alt="Express" width="70" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/react.png" alt="React" width="40" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/redux.jpg" alt="Redux" width="40" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/flask.png" alt="Flask" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/express.png" alt="Express" width="80" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/react.svg" alt="React" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/redux.svg" alt="Redux" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/flask.svg" alt="Flask" width="40" height="40"/>&ensp;
   <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/react-native.png" alt="React Native" width="40" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/socket-io.jpg" alt="Socket.io" width="40" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/sass.jpg" alt="Sass" width="40" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/material-ui.png" alt="Material UI" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/socketio.svg" alt="Socket.io" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/sass.svg" alt="Sass" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/material-ui.svg" alt="Material UI" width="40" height="40"/>&ensp;
   <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/bootstrap.png" alt="Bootstrap" width="40" height="40"/>&ensp;
 </p>
 
 ## Databases
 <p float="left">
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/mongodb.png" alt="Mongo DB" width="80" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/postgres.jpg" alt="PostgreSQL" width="40" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/mysql.png" alt="MySQL" width="40" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/redis.png" alt="Redis" width="40" height="40"/>&ensp;
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/firebase.png" alt="Firebase" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/mongodb.svg" alt="Mongo DB" width="60" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/postgresql.svg" alt="PostgreSQL" width="55" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/mysql.svg" alt="MySQL" width="60" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/redis.svg" alt="Redis" width="60" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/firebase.svg" alt="Firebase" width="70" height="40"/>&ensp;
 </p>
 
 ## Others
 <p float="left">
-  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/git.png" alt="Git" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/git.svg" alt="Git" width="40" height="40"/>&ensp;
+  <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/postman.svg" alt="Postman" width="40" height="40"/>&ensp;
 </p>
 
 <!--
