@@ -2,8 +2,9 @@
 👨‍💻 An aspiring Software Engineer. <br>
 👨‍🎓 CSE '22 at University of Mumbai, Dwarkadas J. Sanghvi College of Engineering.
 
-## Languages
-<p float="left">
+## Skills
+- **Languages**
+
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/javascript.png" alt="JavaScript" width="40" height="40"/>
   </a>&nbsp;
@@ -27,10 +28,10 @@
   <a href="https://en.wikipedia.org/wiki/CSS/" target="_blank">
     <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/css.svg" alt="CSS" width="40" height="40"/>
   </a>&nbsp;
-</p>
 
-## Frameworks/Libraries
-<p float="left">
+
+- **Frameworks/Libraries**
+
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/nodejs.png" alt="Node.js" width="65" height="40"/>
   </a>&nbsp;
@@ -70,10 +71,9 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
   </a>&nbsp;
-</p>
 
-## Databases
-<p float="left">
+- **Databases**
+
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/mongodb.svg" alt="Mongo DB" width="60" height="40"/>
   </a>&nbsp;
@@ -93,10 +93,9 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/firebase.svg" alt="Firebase" width="70" height="40"/>
   </a>&nbsp;
-</p>
 
-## Others
-<p float="left">
+- **Others**
+
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/git.svg" alt="Git" width="40" height="40"/>
   </a>&nbsp;
@@ -108,7 +107,6 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/docker.svg" alt="Docker" width="45" height="40"/>
   </a>&nbsp;
-</p>
 
 <!--
 **RishiDesai17/RishiDesai17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
