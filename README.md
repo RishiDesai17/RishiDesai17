@@ -49,7 +49,7 @@
   </a>&nbsp;
   
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/flask.svg" alt="Flask" width="57" height="40"/>
+    <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/flask.png" alt="Flask" width="60" height="40"/>
   </a>&nbsp;
   
   <a href="https://reactnative.dev/" target="_blank">
@@ -57,7 +57,7 @@
   </a>&nbsp;
   
   <a href="https://socket.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/socketio.svg" alt="Socket.io" width="60" height="40"/>
+    <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/socketio.png" alt="Socket.io" width="70" height="40"/>
   </a>&nbsp;
   
   <a href="https://sass-lang.com/" target="_blank">
