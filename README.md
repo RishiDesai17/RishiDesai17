@@ -103,10 +103,6 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/postman.svg" alt="Postman" width="40" height="40"/>
   </a>&nbsp;
-  
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/docker.svg" alt="Docker" width="45" height="40"/>
-  </a>&nbsp;
 
 <!--
 **RishiDesai17/RishiDesai17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
