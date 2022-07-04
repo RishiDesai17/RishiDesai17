@@ -13,12 +13,20 @@
     <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/typescript.png" alt="Typescript" width="40" height="40"/>
   </a>&nbsp;
   
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/java.png" alt="Java" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/go.svg" alt="Go" width="40" height="40"/>
+  </a>&nbsp;
+ 
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/python.svg" alt="Python" width="40" height="40"/>
   </a>&nbsp;
   
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/java.png" alt="Java" width="40" height="40"/>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/Logos/rust.svg" alt="Rust" width="40" height="40"/>
   </a>&nbsp;
   
   <a href="https://en.wikipedia.org/wiki/HTML/" target="_blank">
