@@ -1,6 +1,7 @@
 # Hi! I'm Rishi <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/wave.gif" height="31px">
 👨‍💻 An aspiring Software Engineer. <br>
-👨‍🎓 BE CSE '22 at University of Mumbai, Dwarkadas J. Sanghvi College of Engineering.
+👨‍🎓 MS Software Engineering Systems '24 at Northeastern University.
+👨‍🎓 BE Computer Engineering '22 at University of Mumbai, Dwarkadas J. Sanghvi College of Engineering.
 
 ## Skills
 - **Languages**
