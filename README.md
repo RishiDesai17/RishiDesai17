@@ -1,4 +1,4 @@
-# Hi! I'm Rishi <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/wave.gif" height="31px">
+# Hi! I'm Rishi <img src="https://raw.githubusercontent.com/RishiDesai17/RishiDesai17/main/wave.gif" width="31px" height="31px">
 👨‍💻 An aspiring Software Engineer. <br>
 👨‍🎓 MS Software Engineering Systems '24 at Northeastern University. <br>
 👨‍🎓 BE Computer Engineering '22 at University of Mumbai, Dwarkadas J. Sanghvi College of Engineering.
